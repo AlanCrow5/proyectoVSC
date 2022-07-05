@@ -365,7 +365,7 @@ footer img{
         display: grid;
     }
 }
-@media (max-width:620px){
+@media (max-width:580px){
     h1{
         font-size: 30px;
     }
@@ -374,7 +374,7 @@ footer img{
         display: grid;
     }
     .nave2{
-        font-size: 15px;
+        font-size: 10px;
     }
     .nave{
         width: 100%;

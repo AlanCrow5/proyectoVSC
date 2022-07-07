@@ -1,0 +1,48 @@
+h1 {
+  color: orange;
+  text-align: center;
+  font-size: 48px;
+  font-family: "Major Mono Display";
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-family: "Audiowide";
+}
+
+h4 {
+  color: white;
+}
+
+.nave {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nave ul {
+  display: flex;
+}
+.nave ul li {
+  padding: 20px;
+}
+.nave ul li a {
+  text-decoration: none;
+  color: white;
+}
+.nave ul li a:hover {
+  font-size: 15px;
+  color: orange;
+}
+
+.redes {
+  display: flex;
+  flex-direction: row;
+  margin-right: 6px;
+}
+.redes ul {
+  padding: 0px;
+  margin: 5px;
+}/*# sourceMappingURL=style.css.map */
